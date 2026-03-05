@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Website\\DotNet_Practice\\App_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60DEB050-B035-42D7-8294-88AB14C5FEBC}|App_2.csproj|c:\\website\\dotnet_practice\\app_2\\ajaxsample.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{60DEB050-B035-42D7-8294-88AB14C5FEBC}|App_2.csproj|solutionrelative:ajaxsample.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60DEB050-B035-42D7-8294-88AB14C5FEBC}|App_2.csproj|c:\\website\\dotnet_practice\\app_2\\ajaxsample.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60DEB050-B035-42D7-8294-88AB14C5FEBC}|App_2.csproj|solutionrelative:ajaxsample.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AjaxSample.aspx.cs",
+              "DocumentMoniker": "C:\\Website\\DotNet_Practice\\App_2\\AjaxSample.aspx.cs",
+              "RelativeDocumentMoniker": "AjaxSample.aspx.cs",
+              "ToolTip": "C:\\Website\\DotNet_Practice\\App_2\\AjaxSample.aspx.cs",
+              "RelativeToolTip": "AjaxSample.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:50:15.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AjaxSample.aspx",
+              "DocumentMoniker": "C:\\Website\\DotNet_Practice\\App_2\\AjaxSample.aspx",
+              "RelativeDocumentMoniker": "AjaxSample.aspx",
+              "ToolTip": "C:\\Website\\DotNet_Practice\\App_2\\AjaxSample.aspx",
+              "RelativeToolTip": "AjaxSample.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-05T13:46:25.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
