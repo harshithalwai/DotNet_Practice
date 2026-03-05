@@ -1,7 +1,0 @@
-D:\Websites\Practice\.Net\App_1\App_1\obj\Debug\App_1.csproj.AssemblyReference.cache
-D:\Websites\Practice\.Net\App_1\App_1\obj\Debug\App_1.csproj.CoreCompileInputs.cache
-D:\Websites\Practice\.Net\App_1\App_1\bin\Debug\App_1.exe.config
-D:\Websites\Practice\.Net\App_1\App_1\bin\Debug\App_1.exe
-D:\Websites\Practice\.Net\App_1\App_1\bin\Debug\App_1.pdb
-D:\Websites\Practice\.Net\App_1\App_1\obj\Debug\App_1.exe
-D:\Websites\Practice\.Net\App_1\App_1\obj\Debug\App_1.pdb

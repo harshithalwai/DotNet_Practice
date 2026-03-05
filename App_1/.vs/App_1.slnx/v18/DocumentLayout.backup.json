@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Websites\\Practice\\.Net\\App_1\\",
+  "WorkspaceRootPath": "C:\\Website\\DotNet_Practice\\App_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAFEC465-8603-4F6A-BAC8-90AEEDA94427}|ClassLibrary1\\ClassLibrary1.csproj|d:\\websites\\practice\\.net\\app_1\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAFEC465-8603-4F6A-BAC8-90AEEDA94427}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81AC2F85-BB17-4D2C-B027-DD4F255E5201}|App_1.csproj|c:\\website\\dotnet_practice\\app_1\\calculator2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AC2F85-BB17-4D2C-B027-DD4F255E5201}|App_1.csproj|solutionrelative:calculator2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEEAB73B-929B-4A50-AC76-098CD131060D}|App_1\\App_1.csproj|d:\\websites\\practice\\.net\\app_1\\app_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEEAB73B-929B-4A50-AC76-098CD131060D}|App_1\\App_1.csproj|solutionrelative:app_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81AC2F85-BB17-4D2C-B027-DD4F255E5201}|App_1.csproj|c:\\website\\dotnet_practice\\app_1\\calculator2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{81AC2F85-BB17-4D2C-B027-DD4F255E5201}|App_1.csproj|solutionrelative:calculator2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEEAB73B-929B-4A50-AC76-098CD131060D}|App_1\\App_1.csproj|d:\\websites\\practice\\.net\\app_1\\app_1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEEAB73B-929B-4A50-AC76-098CD131060D}|App_1\\App_1.csproj|solutionrelative:app_1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81AC2F85-BB17-4D2C-B027-DD4F255E5201}|App_1.csproj|c:\\website\\dotnet_practice\\app_1\\calculator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81AC2F85-BB17-4D2C-B027-DD4F255E5201}|App_1.csproj|solutionrelative:calculator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,50 +21,50 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 230,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Websites\\Practice\\.Net\\App_1\\ClassLibrary1\\Class1.cs",
-              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
-              "ToolTip": "D:\\Websites\\Practice\\.Net\\App_1\\ClassLibrary1\\Class1.cs",
-              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T17:28:41.328Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Websites\\Practice\\.Net\\App_1\\App_1\\Class1.cs",
-              "RelativeDocumentMoniker": "App_1\\Class1.cs",
-              "ToolTip": "D:\\Websites\\Practice\\.Net\\App_1\\App_1\\Class1.cs",
-              "RelativeToolTip": "App_1\\Class1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Title": "Calculator.aspx.cs",
+              "DocumentMoniker": "C:\\Website\\DotNet_Practice\\App_1\\Calculator.aspx.cs",
+              "RelativeDocumentMoniker": "Calculator.aspx.cs",
+              "ToolTip": "C:\\Website\\DotNet_Practice\\App_1\\Calculator.aspx.cs",
+              "RelativeToolTip": "Calculator.aspx.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T17:26:10.868Z",
+              "WhenOpened": "2026-03-05T11:24:31.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator2.aspx.cs",
+              "DocumentMoniker": "C:\\Website\\DotNet_Practice\\App_1\\Calculator2.aspx.cs",
+              "RelativeDocumentMoniker": "Calculator2.aspx.cs",
+              "ToolTip": "C:\\Website\\DotNet_Practice\\App_1\\Calculator2.aspx.cs",
+              "RelativeToolTip": "Calculator2.aspx.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T11:06:08.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Websites\\Practice\\.Net\\App_1\\App_1\\Program.cs",
-              "RelativeDocumentMoniker": "App_1\\Program.cs",
-              "ToolTip": "D:\\Websites\\Practice\\.Net\\App_1\\App_1\\Program.cs",
-              "RelativeToolTip": "App_1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-26T17:01:18.575Z",
+              "Title": "Calculator2.aspx",
+              "DocumentMoniker": "C:\\Website\\DotNet_Practice\\App_1\\Calculator2.aspx",
+              "RelativeDocumentMoniker": "Calculator2.aspx",
+              "ToolTip": "C:\\Website\\DotNet_Practice\\App_1\\Calculator2.aspx",
+              "RelativeToolTip": "Calculator2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-05T10:31:21.446Z",
               "EditorCaption": ""
             }
           ]
