@@ -9,7 +9,7 @@
 
 <body style="margin: 0; font-family: Segoe UI,Arial; background: linear-gradient(135deg,#5f9cff,#7ed6df); height: 100vh;">
 
-    <form id="form1" runat="server">
+    <form id="form1" runat="server" method="get">
 
         <div style="width: 380px; margin: 100px auto; background: white; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.2); overflow: hidden;">
 

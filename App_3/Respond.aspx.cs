@@ -6,9 +6,13 @@ namespace App_3
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            string username = Request.Form["txtUser"];
-            string email = Request.Form["txtEmail"];
-            string password = Request.Form["txtPass"];
+            //string username = Request.Form["txtUser"];
+            //string email = Request.Form["txtEmail"];
+            //string password = Request.Form["txtPass"];
+
+            string username = Request.QueryString["txtUser"];
+            string email = Request.QueryString["txtEmail"];
+            string password = Request.QueryString["txtPass"];
 
             if (!string.IsNullOrEmpty(username))
             {
