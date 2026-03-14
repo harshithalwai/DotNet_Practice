@@ -16,7 +16,7 @@
             <!-- Top Header Bar -->
 
             <div style="background: #4A6CF7; padding: 18px; text-align: center; color: white; font-size: 20px; font-weight: 600;">
-                User Login
+                User Registration
             </div>
 
 
@@ -55,6 +55,28 @@
 
                 </div>
 
+                <!-- Gender -->
+
+                <div style="margin-bottom: 10px; display:flex;justify-content:space-between;align-items:center;padding:10px;border-radius: 10px; ;border:1px solid #E7E9EC;">
+                    <label style="font-weight: 600; color: #333;">Gender</label>
+                    <div>
+                        <asp:RadioButton ID="male" runat="server" Text="Male" GroupName="gender" Checked="true"/>
+                        <asp:RadioButton ID="felame" runat="server" Text="Female" GroupName="gender"/>
+                    </div>
+
+                </div>
+
+                <!--   -->
+
+                <div style="margin-bottom: 10px; display:flex;justify-content:space-between;align-items:center;padding:10px;border-radius: 10px; ;border:1px solid #E7E9EC;">
+                    <label style="font-weight: 600; color: #333;">Reports</label>
+                    <div>
+                        <asp:CheckBox ID="A" runat="server" Text="A"/>
+                        <asp:CheckBox ID="B" runat="server" Text="B"/>
+                        <asp:CheckBox ID="C" runat="server" Text="C"/>
+                    </div>
+
+                </div>
 
                 <!-- Password -->
 
