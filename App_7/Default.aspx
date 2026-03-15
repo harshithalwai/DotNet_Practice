@@ -12,7 +12,10 @@
             <asp:TextBox ID="TextBox1" runat="server" TextMode="Color"
                 AutoPostBack="True" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
         </div>
-
+        <asp:DropDownList ID="DropDownList1" runat="server"></asp:DropDownList>
+        <asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
+        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        <asp:Button ID="Button1" runat="server" Text="Button" OnClick="Button1_Click1" />
     </form>
 </body>
 </html>

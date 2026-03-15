@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Website\\DotNet_Practice\\App_6\\",
+  "WorkspaceRootPath": "D:\\Website\\DotNet_Practice\\App_6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11401A95-0C8C-4231-A962-6B833861C6AF}|App_6.csproj|c:\\website\\dotnet_practice\\app_6\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11401A95-0C8C-4231-A962-6B833861C6AF}|App_6.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11401A95-0C8C-4231-A962-6B833861C6AF}|App_6.csproj|c:\\website\\dotnet_practice\\app_6\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{11401A95-0C8C-4231-A962-6B833861C6AF}|App_6.csproj|D:\\Website\\DotNet_Practice\\App_6\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{11401A95-0C8C-4231-A962-6B833861C6AF}|App_6.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11401A95-0C8C-4231-A962-6B833861C6AF}|App_6.csproj|c:\\website\\dotnet_practice\\app_6\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{11401A95-0C8C-4231-A962-6B833861C6AF}|App_6.csproj|d:\\website\\dotnet_practice\\app_6\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11401A95-0C8C-4231-A962-6B833861C6AF}|App_6.csproj|solutionrelative:default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11401A95-0C8C-4231-A962-6B833861C6AF}|App_6.csproj|D:\\Website\\DotNet_Practice\\App_6\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{11401A95-0C8C-4231-A962-6B833861C6AF}|App_6.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 230,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,24 +30,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Default.aspx.cs",
-              "DocumentMoniker": "C:\\Website\\DotNet_Practice\\App_6\\Default.aspx.cs",
+              "DocumentMoniker": "D:\\Website\\DotNet_Practice\\App_6\\Default.aspx.cs",
               "RelativeDocumentMoniker": "Default.aspx.cs",
-              "ToolTip": "C:\\Website\\DotNet_Practice\\App_6\\Default.aspx.cs",
+              "ToolTip": "D:\\Website\\DotNet_Practice\\App_6\\Default.aspx.cs",
               "RelativeToolTip": "Default.aspx.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAkAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T19:02:18.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Website\\DotNet_Practice\\App_6\\Default.aspx",
+              "DocumentMoniker": "D:\\Website\\DotNet_Practice\\App_6\\Default.aspx",
               "RelativeDocumentMoniker": "Default.aspx",
-              "ToolTip": "C:\\Website\\DotNet_Practice\\App_6\\Default.aspx",
+              "ToolTip": "D:\\Website\\DotNet_Practice\\App_6\\Default.aspx",
               "RelativeToolTip": "Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Website\\DotNet_Practice\\App_6\\Web.config",
+              "DocumentMoniker": "D:\\Website\\DotNet_Practice\\App_6\\Web.config",
               "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\Website\\DotNet_Practice\\App_6\\Web.config",
+              "ToolTip": "D:\\Website\\DotNet_Practice\\App_6\\Web.config",
               "RelativeToolTip": "Web.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
