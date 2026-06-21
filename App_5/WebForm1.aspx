@@ -8,10 +8,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
-        jo value ko submit hone tk waity kre cached events 
-        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="RequiredFieldValidator"></asp:RequiredFieldValidator>
-        <asp:Button ID="Button1" runat="server" Text="Button" />
+        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>jo value ko submit hone tk waity kre cached events 
+        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="RequiredFieldValidator"></asp:RequiredFieldValidator> validation event 
+        <asp:Button ID="Button1" runat="server" Text="Button" />postback
         <div>
             ASP.NET Server Control Events
             In Part 4, of this video series, we have discussed that, events can occur at 3 levels in an
