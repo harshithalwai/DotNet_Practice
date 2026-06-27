@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<Company>
+  <Employee>
+    <ID>1</ID>
+    <Name>Amit Sharma</Name>
+    <Role>Developer</Role>
+    <Salary>60000</Salary>
+  </Employee>
+  <Employee>
+    <ID>2</ID>
+    <Name>Neha Verma</Name>
+    <Role>Tester</Role>
+    <Salary>50000</Salary>
+  </Employee>
+  <Employee>
+    <ID>3</ID>
+    <Name>Rohit Singh</Name>
+    <Role>Manager</Role>
+    <Salary>90000</Salary>
+  </Employee>
+</Company>
