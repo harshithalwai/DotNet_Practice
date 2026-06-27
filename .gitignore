@@ -8,22 +8,24 @@
 *.sln.docstates
 
 # =========================
-# Build Results
+# Build Output
 # =========================
-[Bb]in/
-[Oo]bj/
+bin/
+obj/
+log/
 [Ll]og/
 
 # =========================
-# ASP.NET Specific
+# ASP.NET / Publishing
 # =========================
 *.publishsettings
 *.pubxml
 *.azurePubxml
+PublishProfiles/
 
 # IIS Express
-.vs/
 IISExpress/
+.vs/config/
 
 # =========================
 # NuGet
@@ -32,43 +34,43 @@ packages/
 *.nupkg
 *.snupkg
 
-# Keep this if using packages.config
-!packages/build/
+# If using PackageReference, ignore global packages cache optional:
+# ~/.nuget/packages/
 
 # =========================
-# Node (if you ever add frontend)
+# Database files (local dev only)
+# =========================
+*.mdf
+*.ldf
+*.sqlite
+
+# =========================
+# Node (if frontend added later)
 # =========================
 node_modules/
 
 # =========================
-# OS Files
+# Logs & Temp files
+# =========================
+*.log
+*.tmp
+*.cache
+
+# =========================
+# OS files
 # =========================
 .DS_Store
 Thumbs.db
 
 # =========================
-# Logs & Temp
-# =========================
-*.log
-*.tmp
-
-# =========================
-# Database / Local Files
-# =========================
-*.mdf
-*.ldf
-
-# =========================
-# Rider / VS Code (optional)
+# IDEs (optional)
 # =========================
 .vscode/
 .idea/
+*.resharper
 
 # =========================
-# Others
+# Optional: Secrets / config
 # =========================
-*.cache
-*.pdb
-*.exe
-*.dll
-*.xsd
+appsettings*.json.user
+web.*.config.user
