@@ -84,6 +84,8 @@
     runat="server"
 
     Visible="false"
+    
+    OnDayRender="Calendar1_DayRender"
 
     OnSelectionChanged="Calendar1_SelectionChanged"
 

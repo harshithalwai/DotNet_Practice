@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using System.Web.UI.WebControls;
 
 namespace App_14
 {
@@ -9,6 +10,53 @@ namespace App_14
         {
 
         }
+        protected void Calendar1_VisibleMonthChanged(object sender, MonthChangedEventArgs e)
+        {
+
+            string NewMonth = GetMonthName(e.NewDate.Month);
+            string OldMonth = GetMonthName(e.PreviousDate.Month);
+
+            Response.Write("Month cahnged from " + OldMonth + " to " + NewMonth);
+
+        }
+
+        private string GetMonthName(int MonthNumber)
+        {
+
+            switch (MonthNumber)
+            {
+
+                case 1:
+                    return "Jan";
+                case 2:
+                    return "Feb";
+                case 3:
+                    return "Mar";
+                case 4:
+                    return "Apr";
+                case 5:
+                    return "May";
+                default:
+                    return "else";
+
+            }
+        }
+        protected void Calendar1_DayRender(object sender, DayRenderEventArgs e)
+        {
+            if (!e.Day.IsOtherMonth && e.Day.Date.Day % 2 == 0)
+            {
+                e.Cell.BackColor = System.Drawing.Color.Red;
+                e.Cell.ForeColor = System.Drawing.Color.White;
+                e.Cell.Font.Bold = true;
+                e.Cell.Text = "X";
+                e.Cell.ToolTip = "Booked";
+            }
+            else
+            {
+                e.Cell.ToolTip = "Available";
+            }
+        }
+
 
         //===========================
         // Show / Hide Calendar
@@ -25,6 +73,11 @@ namespace App_14
 
         protected void Calendar1_SelectionChanged(object sender, EventArgs e)
         {
+            foreach (DateTime selectedDateTime in Calendar1.SelectedDates)
+            {
+                Response.Write(selectedDateTime.ToShortDateString() + "<br/>");
+            }
+
             // Show selected date in textbox
 
             TextBox1.Text = Calendar1.SelectedDate.ToString("dd/MM/yyyy");
