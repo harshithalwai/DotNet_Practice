@@ -9,6 +9,20 @@ namespace App_14
         {
 
         }
+        protected void Wizard1_NextButtonClick(object sender, WizardNavigationEventArgs e)
+        {
+
+            if (e.NextStepIndex == 2)
+            {
+
+                lblFirstName.Text = txtFirstName.Text;
+                lblLastName.Text = txtLastName.Text;
+                lblGender.Text = ddlGender.SelectedValue;
+
+                lblMobile.Text = txtMobile.Text;
+                lblEmail.Text = txtEmail.Text;
+            }
+        }
 
         protected void Wizard1_FinishButtonClick(object sender, WizardNavigationEventArgs e)
         {
